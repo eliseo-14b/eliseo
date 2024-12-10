@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Docentes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 20px;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+            color: #007acc;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #e8f4fc;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Docentes Jornada Matutina</h1>
+    <ul>
+        <li>Castro Pluas Carlos Alberto</li>
+        <li>Gómez Quintana Aurora Victoria</li>
+        <li>Matamoros Guerrero Guadalupe Leonor</li>
+        <li>Palma Zambrano Luis Manuel</li>
+        <li>Pangay Zambrano Víctor Orlando</li>
+        <li>Sánchez Méndez Jackeline Johanna</li>
+        <li>Sellán Cordero Leonardo</li>
+        <li>Villacres Velastegui Griska Nereida</li>
+        <li>Vulgarín Rugel Bertha Adriana</li>
+        <li>Psic. Gina Sarco</li>
+        <li>Psic. Alexandra Moreira</li>
+    </ul>
+</body>
+</html>
